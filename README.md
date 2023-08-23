@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learning programming
+Helix Enthusiast > CHAD
 
 [![Codewars](https://www.codewars.com/users/pierrelgol/badges/large)](https://www.codewars.com/users/pierrelgol)
 
