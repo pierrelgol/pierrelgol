@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Pierre — an Embedded Software Engineer at Thales and student at 42 Paris.</h2>
+<h2 align="center">Hi, I'm Pierre — an Embedded Software Engineer at ZML and student at 42 Paris.</h2>
 
 <br clear="both" />
 
